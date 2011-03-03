@@ -725,7 +725,7 @@ git clone git://github.com/rs/net-server-mail.git
 
 Git repository on the web:
 
-https://github.com/rs/net-server-mail
+L<https://github.com/rs/net-server-mail>
 
 =head1 BUGS
 
